@@ -1,1 +1,1 @@
-include ':app', ':receiver', ':remoteservicelibrary'
+include ':app', ':receiver'
